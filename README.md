@@ -1,1 +1,1 @@
-# exercicio-livro
+# exercicios-livro
