@@ -1,1 +1,1 @@
-# exercicios-livro
+# exercicios-livro-aula-de-Lógica-Computacional
